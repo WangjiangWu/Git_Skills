@@ -1,8 +1,7 @@
 # Git_Skills
 
-
 # create a new repository on the command line
--echo "# dfs" >> README.md
+- echo "# ***" >> README.md
 - git init
 - git add README.md
 - git commit -m "first commit"
