@@ -19,4 +19,4 @@ git push -u origin main
 
 # git branch
 
-
+# git status
