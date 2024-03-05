@@ -7,7 +7,7 @@ Wangjiang WU, @SMU
 - git
 - git help tutorial
 - git help workflows
-  - git blame, git bisect, git rebase
+  - git blame, git bisect, git rebase --interactive, 
 
 # create a new repository on the command line
 - echo "# ***" >> README.md
@@ -67,5 +67,6 @@ Wangjiang WU, @SMU
 - git branch --set-upstream dev origin/dev
 
 # Ref:
+- https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://zhuanlan.zhihu.com/p/30044692
 - https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424
