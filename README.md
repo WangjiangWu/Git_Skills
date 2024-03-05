@@ -30,7 +30,7 @@ Wangjiang WU, @SMU
 
 # other codes:
 - git branch
-- git status
+- git checkout -b dev origin/dev
 
 
 - git config --list
@@ -39,7 +39,7 @@ Wangjiang WU, @SMU
 - git config --global user.email "***"
 - git status
 - git diff filename
-- git log  (git log --pretty=oneline)
+- git log  (git log --pretty=oneline) (git log --graph)
 - git reset --hard HEAD^ (HEAD^^) or (git reset --hard HEAD~100) or (git reflog, git reset --hard ID)
 - git checkouot -- <file>
 - git rm filename, git checkout --<filename>
@@ -62,9 +62,11 @@ Wangjiang WU, @SMU
 - git stash list
 - git stash apply (git stash drop) or git stash pop
 
+- git switch -c 
 
 - git remote (git remote -v)
 - git checkout -b dev origin/dev
+- git branch --set-upstream-to=origin/dev dev
 - git pull
 - git branch --set-upstream dev origin/dev
 
