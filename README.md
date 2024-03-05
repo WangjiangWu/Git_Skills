@@ -9,6 +9,7 @@
 - git remote add origin {ssh key}
 - git push -u origin main
 
+- git push origin main (git push --force origin main)
 
 # push an existing repository from the command line
 - git remote add origin {ssh key}
