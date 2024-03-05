@@ -7,7 +7,8 @@ Wangjiang WU, @SMU
 - git
 - git help tutorial
 - git help workflows
-  - git blame, git bisect, git rebase --interactive, 
+  - git blame, git bisect, git rebase --interactive, git merge, git cherry-pick
+  - 
 
 # create a new repository on the command line
 - echo "# ***" >> README.md
