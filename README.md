@@ -1,6 +1,8 @@
 # Git_Skills
 Wangjiang WU, @SMU
 
+![image](git_sche.png)
+
 git, git help tutorial
 
 # create a new repository on the command line
