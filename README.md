@@ -7,7 +7,7 @@ Wangjiang WU, @SMU
 - git
 - git help tutorial
 - git help workflows
-- - git blame, git bisect, git rebase
+ - git blame, git bisect, git rebase
 
 # create a new repository on the command line
 - echo "# ***" >> README.md
