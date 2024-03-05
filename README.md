@@ -1,5 +1,8 @@
 # Git_Skills
 Wangjiang WU, @SMU
+
+git, git help tutorial
+
 # create a new repository on the command line
 - echo "# ***" >> README.md
 - git init
