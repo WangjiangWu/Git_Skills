@@ -8,7 +8,8 @@ Wangjiang WU, @SMU
 - git help tutorial
 - git help workflows
   - git blame, git bisect, git rebase --interactive, git merge, git cherry-pick
-  - 
+  - git request pull
+  - git fetch <remote> or git fetch update
 
 # create a new repository on the command line
 - echo "# ***" >> README.md
