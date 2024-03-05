@@ -1,4 +1,4 @@
-# Git_Skills
+'0;136;0c# Git_Skills
 Wangjiang WU, @SMU
 
 ![image](git_sche.png)
@@ -28,11 +28,20 @@ Wangjiang WU, @SMU
 - git push -u origin main
 
 
-# other codes:
+# branch
 - git branch
+- git checkout -b dev 
+- git switch -c dev
 - git checkout -b dev origin/dev
+- git branch dev
+- git checkout dev or git switch dev
+- git merge dev
+- git status
+- git log --graph --pretty=oneline --abbrev-commit
+- git branch -d dev
 
 
+# other code
 - git config --list
 - git config -e [--global]
 - git config --global user.name "***"
@@ -44,25 +53,15 @@ Wangjiang WU, @SMU
 - git checkouot -- <file>
 - git rm filename, git checkout --<filename>
 
-
 # Remote
 - SSH Key (id_rsa, id_rsa.pub)
 - ssh-keygen -t rsa -C "youremail@example.com"
 - git clone <github link>
 
-
-- git checkout -b <dev> (git branch <dev>, git checkout dev)
-- git branch
-- git checkout <branchName> 
-- git merge dev
-- git branch -d dev
-
 - git merge --no-ff -m "message"
 - git stash
 - git stash list
 - git stash apply (git stash drop) or git stash pop
-
-- git switch -c 
 
 - git remote (git remote -v)
 - git checkout -b dev origin/dev
