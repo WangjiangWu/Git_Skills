@@ -7,6 +7,7 @@ Wangjiang WU, @SMU
 - git
 - git help (or -h) commandName
 - git help tutorial
+- [git official page](https://git-scm.com/)
 - visual studio code
 
 # git config
