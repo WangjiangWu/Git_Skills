@@ -83,8 +83,8 @@ Wangjiang WU, @SMU
 
 # git ignore
 - .gitignore
-- [git ignore templates] (https://github.com/github/gitignore)
-- [gitIgnore Online Generator] (https://michaelliao.github.io/gitignore-online-generator/)
+- [git ignore templates](https://github.com/github/gitignore)
+- [gitIgnore Online Generator](https://michaelliao.github.io/gitignore-online-generator/)
 
 # Ref:
 - https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
