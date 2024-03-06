@@ -1,15 +1,13 @@
-'0;136;0c# Git_Skills
+# Git_Skills
 Wangjiang WU, @SMU
 
 ![image](git_sche.png)
 
 # Tutorial
 - git
+- git help (or -h) commandName
 - git help tutorial
-- git help workflows
-  - git blame, git bisect, git rebase --interactive, git merge, git cherry-pick
-  - git request pull
-  - git fetch <remote> or git fetch update
+- visual studio code
 
 # create a new repository on the command line
 - echo "# ***" >> README.md
@@ -27,7 +25,6 @@ Wangjiang WU, @SMU
 - git branch -M main
 - git push -u origin main
 
-
 # branch
 - git branch
 - git checkout -b dev 
@@ -35,11 +32,27 @@ Wangjiang WU, @SMU
 - git checkout -b dev origin/dev
 - git branch dev
 - git checkout dev or git switch dev
-- git merge dev
+- git merge dev (for fast forward mode)
+- git merge --no-ff -m "merge with no-ff" dev
 - git status
 - git log --graph --pretty=oneline --abbrev-commit
-- git branch -d dev
+- git branch -d (-D) dev
+- git rebase
 
+- git stash, git status
+- git stash list
+- git stash apply, git stash drop. or (git stash pop)
+- git stash apply stash@{0}
+- git cherry-pick 4c805e2
+
+# tage
+- git tag -d v0.1 (git push origin:refs/tags/v0.1)
+- git push origin v1.0
+- git push origin --tags
+
+# Fork
+- git clone ...
+- pull request
 
 # other code
 - git config --list
